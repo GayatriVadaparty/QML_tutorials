@@ -7,7 +7,7 @@ QuantumAI is a cutting-edge technology company that specializes in providing adv
 Our team of experts is dedicated to delivering the highest quality solutions and support to our clients. We work closely with them to understand their unique needs and challenges, and then develop customized solutions that meet their specific requirements. Whether you're looking to optimize your financial operations, improve patient outcomes in healthcare, or increase the efficiency of your energy operations, we're here to help.
 
 
-## Our QML Team members -
+### Our QML Team members -
 
 Rajat Vishwakarma 
 
